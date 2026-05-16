@@ -140,6 +140,11 @@ weatherLesson/
 - GUI frontend
 - Autonomous travel planning
 
+
+# result output
+
+The output of the Python file can be found in the public folder in this repository
+
 ---
 
 # Author
