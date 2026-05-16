@@ -148,7 +148,7 @@ for chunk in agent.stream(
             "messages": [
                 {
                     "role": "user",
-                    "content": "What is the weather in Lagos?"
+                    "content": "Is Tokyo good for outdoor activities?"
                 }
             ]
         },
